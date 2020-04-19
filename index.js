@@ -59,7 +59,7 @@ app.get("/api/group-templates", (req, res) =>
         },        
       },
       {
-        id: 4,
+        id: 5,
         title: "Youtube TV",
         description: "Live television streaming platform and DVR",
         categories: ["television"],
